@@ -1,0 +1,5 @@
+outs:
+- md5: 450c6ab2c3f38b4d8b90e8cc6ec17a22.dir
+  size: 41485
+  nfiles: 1
+  path: Training_Batch_Files
